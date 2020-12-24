@@ -14,7 +14,7 @@ The projects were developed using HTML,CSS,JS technologies.
 Student Name | 	Project |
 --- | --- |
 **Karin Marjiya** |	[cv](https://karinmarjieh.github.io/karinmarjieh.cv/)
-**Student** |	[website](https://karinmarjieh.github.io/karinmarjieh.cv/)
+**Khaldoun Takrouri** |	[website](https://kht75.github.io/jerWepDevelopment/)
 **Student** |	[website](https://karinmarjieh.github.io/karinmarjieh.cv/)
 **Student** |	[website](https://karinmarjieh.github.io/karinmarjieh.cv/)
 **Student** |	[website](https://karinmarjieh.github.io/karinmarjieh.cv/)
