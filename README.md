@@ -15,7 +15,7 @@ Student Name | 	Project |
 --- | --- |
 **Karin Marjiya** |	[cv](https://karinmarjieh.github.io/karinmarjieh.cv/)
 **Khaldoun Takrouri** |	[website](https://kht75.github.io/jerWepDevelopment/)
+**Mohammed Barbar** |	[website](https://mohammedbarbar.github.io/Draft/)
 **Student** |	[website](https://karinmarjieh.github.io/karinmarjieh.cv/)
-**Student** |	[website](https://karinmarjieh.github.io/karinmarjieh.cv/)
-**Student** |	[website](https://karinmarjieh.github.io/karinmarjieh.cv/)
+**Ameer Abu Khadijeh** |	[website](https://github.com/ameerabukhadijeh)
 **Student** |	[website](https://karinmarjieh.github.io/karinmarjieh.cv/)
